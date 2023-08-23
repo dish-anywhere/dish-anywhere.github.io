@@ -50,7 +50,7 @@ Your login credentials will remain the same for future logins.
 5. Open app, log in, and access content.
 
 
-h2 How to use the Dish Anywhere app?
+## How to use the Dish Anywhere app?
 
 * Use menu, search, or recommendations to find shows and movies.
 * Tap a show or movie to begin watching.
